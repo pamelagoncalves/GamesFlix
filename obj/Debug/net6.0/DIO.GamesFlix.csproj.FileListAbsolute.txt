@@ -1,0 +1,15 @@
+C:\Dio\GamesFlix\bin\Debug\net6.0\DIO.GamesFlix.exe
+C:\Dio\GamesFlix\bin\Debug\net6.0\DIO.GamesFlix.deps.json
+C:\Dio\GamesFlix\bin\Debug\net6.0\DIO.GamesFlix.runtimeconfig.json
+C:\Dio\GamesFlix\bin\Debug\net6.0\DIO.GamesFlix.dll
+C:\Dio\GamesFlix\bin\Debug\net6.0\ref\DIO.GamesFlix.dll
+C:\Dio\GamesFlix\bin\Debug\net6.0\DIO.GamesFlix.pdb
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.csproj.AssemblyReference.cache
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.AssemblyInfoInputs.cache
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.AssemblyInfo.cs
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.csproj.CoreCompileInputs.cache
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.dll
+C:\Dio\GamesFlix\obj\Debug\net6.0\ref\DIO.GamesFlix.dll
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.pdb
+C:\Dio\GamesFlix\obj\Debug\net6.0\DIO.GamesFlix.genruntimeconfig.cache
